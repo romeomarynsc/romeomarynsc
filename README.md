@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://fb.me/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
- &nbsp;&nbsp; 
-<a href="https://pinterest.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174863.svg" alt="alt text" width="20" height="20"></a>
-
-
+ 
 
 ___
 
